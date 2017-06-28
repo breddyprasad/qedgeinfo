@@ -3,14 +3,14 @@
   <groupId>Com.Demo.App</groupId>
   <artifactId>qedgeinfoinfo</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>qedgeinfoinfo Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
 		<connection>scm:git:git@github.com:breddyprasad/qedgeinfo.git</connection>
 		<url>scm:git:git@github.com:breddyprasad/qedgeinfo.git</url>
 		<developerConnection>scm:git:git@github.com:breddyprasad/qedgeinfo.git</developerConnection>
-		<tag>qedgeinfoinfo-0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
